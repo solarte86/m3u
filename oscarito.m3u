@@ -5,7 +5,7 @@ http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 , TELEAMAZONAS
 http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
 
-#EXTINF:-1 , COSMO TV (ESPAÑOL ACENT0)
+#EXTINF:-1 , COSMO TV (ESPAÃ‘OL ACENT0)
 http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8
 
 #EXTINF:-1 , CACHIPUM TV
@@ -30,23 +30,23 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=o
 #EXTINF:-1 , RETRO MUSICAL
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgratis?chile.m3u8
 
-#EXTINF:-1 , AMERICAN PIE 1
+#EXTINF:0 , AMERICAN PIE 1
 https://bit.ly/2KS5ucG
 
-#EXTINF:-1 , INCREIBLE
+#EXTINF:0 , INCREIBLE
 https://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
 
-#EXTINF:-1 , DEEPOOL- PELICULA
+#EXTINF:0 , DEEPOOL- PELICULA
 https://archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
 
-#EXTINF:-1 , INTENSAMENTE - PELICULA
+#EXTINF:0 , INTENSAMENTE - PELICULA
 https://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
 
 
-#EXTINF:-1 , INTENSAMENTE . PELICULA
+#EXTINF:0 , INTENSAMENTE . PELICULA
 https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
 
-#EXTINF:-1 , REDADA ASESINA. PELICULA
+#EXTINF:0 , REDADA ASESINA. PELICULA
 https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 
 #EXTINF:-1 ,GUARDIANES DE LA GALAXIA 1
@@ -72,16 +72,16 @@ https://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
 https://archive.org/download/ThSRREGIO_201802/ThSRREGIO.mkv
 
 
-#EXTINF:-1 , MULAN
+#EXTINF:0 , MULAN
 https://archive.org/download/mulan.-2020.1080p-dual-lat-cinecalidad.is_20200928/Mulan.2020.1080p-dual-lat-cinecalidad.is.mp4
 
-#EXTINF:-1 , MULAN 2
+#EXTINF:0 , MULAN 2
 https://archive.org/download/mulan.-2020.1080p-dual-lat-cinecalidad.is-2-1/Mulan.2020.1080p-dual-lat-cinecalidad.is%20%282%29%20%281%29.mkv
 
-#EXTINF:-1 , MULAN 3
+#EXTINF:0 , MULAN 3
 https://archive.org/download/mulan.-2020.-br.-lat_202101/MULAN.2020.BR.LAT.mkv
 
-#EXTINF:-1 , MULAN 4 LIGERA
+#EXTINF:0 , MULAN 4 LIGERA
 https://archive.org/download/mulan2020/mulan2020.mp4
 
 #EXTINF:-1 , EL MAL DENTRO 
@@ -91,7 +91,7 @@ https://archive.org/download/01062017Aqc782937187398721893/01062017_aqc.avi?Peli
 http://cecegeek@goo.gl/3KGMLf
 
 
-#EXTINF:-1 , SANDY WEXLER
+#EXTINF:0 , SANDY WEXLER
 http://bit.ly/MRAQCSAND
 
 
@@ -140,7 +140,7 @@ http://bit.ly/2v16m9z
 http://bit.ly/MASCOTAHUMANA
 
 
-#EXTINF:-1 , SANDY WESLER
+#EXTINF:0 , SANDY WESLER
 http://cecegeek@goo.gl/kyH56Z
 
 #EXTINF:-1 , ATHLANTA CHANNEL
@@ -224,7 +224,7 @@ http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
 #EXTINF:-1 , COSMO TV PELICULAS
 http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8
 
-#EXTINF:-1 , DIVINITY TV ESPAÑOL
+#EXTINF:-1 , DIVINITY TV ESPAÃ‘OL
 http://91.126.141.12:1935/live/smil:divinity.smil/playlist.m3u8
 
 #EXTINF:-1 , FDF TV
@@ -234,7 +234,7 @@ http://91.126.141.201:1935/live/smil:fdf.smil/playlist.m3u8
 http://91.126.141.201:1935/live/smil:ten.smil/playlist.m3u8
 
 
-#EXTINF:-1 , DISCOVERY MAX ESPAÑA
+#EXTINF:-1 , DISCOVERY MAX ESPAÃ‘A
 http://91.126.141.12:1935/live/discoverymax/playlist.m3u8
 
 
@@ -245,7 +245,7 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1
 #EXTINF:-1 , MILENIO TV
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 
-#EXTINF:-1 , TV CHECHUCHEMAÑ
+#EXTINF:-1 , TV CHECHUCHEMAÃ‘
 
 #EXTINF:-1 , LOGOS TV
 http://streamer1.streamhost.org:1935/salive/GMIalfam/playlist.m3u8
@@ -308,7 +308,7 @@ http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
 #EXTINF:-1 , LATINO TV MARTI
 http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
 
-#EXTINF:-1 , DW ESPAÑOL
+#EXTINF:-1 , DW ESPAÃ‘OL
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 , TV5 MONDE INTERNACIONALES
@@ -335,14 +335,14 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w15821405
 http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/1296k/index.m3u8
 
 
-#EXTINF:-1 , CBN ESPAÑOL
+#EXTINF:-1 , CBN ESPAÃ‘OL
 http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8?tecnotv.info?iptv.m3u8
 
 
 #EXTINF:-1 , VISUAL RADIO
 http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8?tecnotv.info?iptv.m3u8
 
-#EXTINF:-1 , DW ESPÑOL
+#EXTINF:-1 , DW ESPÃ‘OL
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&play-only=primary&rebase=on%20
 
 
@@ -366,7 +366,7 @@ http://panel.dattalive.com:1935/8250/8250/chunklist_w325606071.m3u8
 http://217.182.77.27/live/alcarriatv-livestream.m3u8
 
 
-#EXTINF:-1 , PELICULA: GReenland 2020 Latino HD
+#EXTINF:0 , PELICULA: GReenland 2020 Latino HD
 https://archive.org/download/greenland.-2020.-hd.-1080p.-latino-convert-video-online.com/Greenland.2020.HD.1080p.Latino%20%28convert-video-online.com%29.mp4
 
 #EXTINF:-1 , PELICULA: TOM Y JERRY 2021
