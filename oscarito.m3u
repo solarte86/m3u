@@ -30,7 +30,7 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=o
 #EXTINF:-1 , RETRO MUSICAL
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgratis?chile.m3u8
 
-#EXTINF:0 , AMERICAN PIE 1
+#EXTINF:1 , AMERICAN PIE 1
 https://bit.ly/2KS5ucG
 
 #EXTINF:0 , INCREIBLE
